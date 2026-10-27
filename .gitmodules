@@ -1,6 +1,6 @@
-[submodule "frontend"]
-	path = app/frontend
-	url = https://github.com/BaraWazwaz/Full-Stack-Shop-FE.git
 [submodule "backend"]
-	path = app/backend
-	url = https://github.com/BaraWazwaz/Full-Stack-Shop-BE.git
+	path = repositories/backend
+	url = https://github.com/BaraWazwaz/Full-Stack-Shop-BE
+[submodule "frontend"]
+	path = repositories/frontend
+	url = https://github.com/BaraWazwaz/Full-Stack-Shop-FE
